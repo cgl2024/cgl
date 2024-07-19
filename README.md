@@ -7,6 +7,8 @@
   * Weakly-supervised
     * Vessel-CAPTCHA: An efficient learning framework for vessel.
     https://doi.org/10.1016/j.media.2021.102263
+    * 3D Vascular Segmentation Supervised by 2D Annotation of Maximum Intensity Projection.
+    https://ieeexplore.ieee.org/abstract/document/10423041
   * Generate Model
     * GAN
        * RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs using a Novel Multi-scale Generative Adversarial Network.
@@ -21,9 +23,15 @@
        https://arxiv.org/pdf/2209.14566.<br>
        * C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation.
        https://arxiv.org/pdf/2308.00193.<br>
-  * U-Net
+  * Other
     * SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation.
-    https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=SA-UNet:%20Spatial%20Attention%20U-Net%20for%20Retinal%20Vessel%20Segmentation.<br> 
+    https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=SA-UNet:%20Spatial%20Attention%20U-Net%20for%20Retinal%20Vessel%20Segmentation.<br>
+    * Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation.
+    https://arxiv.org/pdf/2307.08388
+    * SegR-Net: A deep learning framework with multi-scale feature fusion for robust retinal vessel segmentation.
+    https://doi.org/10.1016/j.compbiomed.2023.107132
+    * An Anatomy- and Topology-Preserving Framework for Coronary Artery Segmentation.
+    https://ieeexplore.ieee.org/abstract/document/10265156/authors#authors
   * Multi-level semantic supervision
     * SCS-Net: A Scale and Context Sensitive Network for Retinal Vessel.
     https://doi.org/10.1016/j.media.2021.102025.
