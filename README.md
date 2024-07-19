@@ -3,6 +3,9 @@
   * Unsupervised
   * Semi-supervised
   * Weakly-supervised
+    * Vessel-CAPTCHA: An efficient learning framework for vessel.
+    https://doi.org/10.1016/j.media.2021.102263
+annotation and segmentation
   * Generate Model
     * GAN
        * RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs using a Novel Multi-scale Generative Adversarial Network.
@@ -21,6 +24,10 @@
     * SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation.
     https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=SA-UNet:%20Spatial%20Attention%20U-Net%20for%20Retinal%20Vessel%20Segmentation.<br> 
     主要针对视网膜血管的分割，在Unet的基础上引入了一个dropout卷积模块替代传统的卷积层，其主要由卷积dropblack，BN，Relu构成，防止模型过拟合；同时引入空间注意模块SA，SA首先沿着通道方向进行最大池化和平均池化操作，并将它们拼接起来，生成一个有效的特征描述符。然后通过卷积层和连接的特征描述符上的Sigmoid激活函数，生成空间注意图,最后将空间注意图和输入进行点积，作为解码器的输入继续计算。<br>
+  * Multi-level semantic supervision
+    * SCS-Net: A Scale and Context Sensitive Network for Retinal Vessel.
+    https://doi.org/10.1016/j.media.2021.102025.
+Segmentation
   * New Loss
     * CF-Loss: Clinically-relevant feature optimised loss function for retinal multi-class vessel segmentation and vascular feature measurement.
     https://doi.org/10.1016/j.media.2024.103098
