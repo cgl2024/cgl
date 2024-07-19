@@ -2,6 +2,8 @@
 * Papers
   * Unsupervised
   * Semi-supervised
+    * DIAS: A dataset and benchmark for intracranial artery segmentation in DSA sequences.
+    https://doi.org/10.1016/j.media.2024.103247
   * Weakly-supervised
     * Vessel-CAPTCHA: An efficient learning framework for vessel.
     https://doi.org/10.1016/j.media.2021.102263
@@ -9,6 +11,8 @@
     * GAN
        * RV-GAN: Segmenting Retinal Vascular Structure in Fundus Photographs using a Novel Multi-scale Generative Adversarial Network.
        https://arxiv.org/abs/2101.00535.
+       * M-GAN: Retinal Blood Vessel Segmentation by Balancing Losses Through Stacked Deep Fully Convolutional Networks.
+       https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9162010
     * VAE
        * A Deep Learning Design for Improving Topology Coherence in Blood Vessel Segmentation.
        https://link.springer.com/chapter/10.1007/978-3-030-32239-7_11.<br>
