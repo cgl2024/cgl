@@ -1,5 +1,5 @@
 # Vascular segmentation
-* paper
+* Papers
   * Unsupervised
   * Semi-supervised
   * Weakly-supervised
@@ -11,7 +11,12 @@
     * VAE
        * A Deep Learning Design for Improving Topology Coherence in Blood Vessel Segmentation.<br>
        https://link.springer.com/chapter/10.1007/978-3-030-32239-7_11.<br>
-       通过在U-Net网络之后连接一个VAE模型学习血管图像中的拓扑结构对U-Net输出图像做进一步的细化操作。
+       通过在U-Net网络之后连接一个VAE模型学习血管图像中的拓扑结构对U-Net输出图像做进一步的细化操作。<br>
+    * Diffusion
+       * Diffusion adversarial representation learning for self-supervised vessel segmentation.<br>
+       https://arxiv.org/pdf/2209.14566.<br>
+       * C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation.<br>
+       https://arxiv.org/pdf/2308.00193.<br>
   * U-Net
     * SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation.<br>
     https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=SA-UNet:%20Spatial%20Attention%20U-Net%20for%20Retinal%20Vessel%20Segmentation.<br> 
@@ -21,3 +26,7 @@
     https://doi.org/10.1016/j.media.2024.103098
     在精确分割血管的同时，也需要考虑血管的特征，该文通过引入了血管密度损失函数和分形维数损失函数，并通过消融实验验证了其可行性。
     * clDice - a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation.<br>
+    https://arxiv.org/pdf/2003.07311
+  * GNN
+    * TaG-Net: Topology-Aware Graph Network for Centerline-Based Vessel Labeling.<br>
+    https://ieeexplore.ieee.org/document/10032183.<br>
