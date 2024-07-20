@@ -23,7 +23,7 @@
        https://arxiv.org/pdf/2209.14566.<br>
        * C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation.
        https://arxiv.org/pdf/2308.00193.<br>
-  * Other
+  * Supervised
     * SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation.
     https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=SA-UNet:%20Spatial%20Attention%20U-Net%20for%20Retinal%20Vessel%20Segmentation.<br>
     * Dynamic Snake Convolution based on Topological Geometric Constraints for Tubular Structure Segmentation.
