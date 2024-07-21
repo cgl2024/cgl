@@ -3,7 +3,7 @@
   * Unsupervised
   * Semi-supervised
     * DIAS: A dataset and benchmark for intracranial artery segmentation in DSA sequences.
-    https://doi.org/10.1016/j.media.2024.103247
+    [1](https://doi.org/10.1016/j.media.2024.103247)
   * Weakly-supervised
     * Vessel-CAPTCHA: An efficient learning framework for vessel.
     https://doi.org/10.1016/j.media.2021.102263
