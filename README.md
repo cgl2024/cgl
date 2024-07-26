@@ -1,4 +1,7 @@
 # Vascular segmentation
+* toolkit
+  * SLOctolyzer: Fully automatic analysis toolkit for segmentation and feature extracting in scanning laser ophthalmoscopy images.
+  [[arxiv 2024]](https://arxiv.org/abs/2406.16466)
 * Review
   * Brain Vessel Segmentation Using Deep Learning—A Review.
   [[IEEE Acess 2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9919808)
@@ -47,14 +50,18 @@
     [[IEEE Access 2023]](https://ieeexplore.ieee.org/document/10373855)
     * Retinal Vessel Segmentation using Round-wise Features Aggregation on Bracket-shaped Convolutional Neural Networks
     [[IEEE EMBC 2019]](https://ieeexplore.ieee.org/document/8856552/keywords#keywords)
+    * Retinal vessel segmentation using Multiheaded attention UNet.
+    [[arxiv 2023]](https://ieeexplore.ieee.org/document/10156875)
   * Multi-level semantic supervision
     * SCS-Net: A Scale and Context Sensitive Network for Retinal Vessel.
     [[MIA 2021]](https://www.sciencedirect.com/science/article/abs/pii/S1361841521000712).
-  * New Loss
+  * New Loss and metric
     * CF-Loss: Clinically-relevant feature optimised loss function for retinal multi-class vessel segmentation and vascular feature measurement.
     [[MIA 2024]](https://www.sciencedirect.com/science/article/abs/pii/S1361841524000239?via%3Dihub)
     * clDice - a Novel Topology-Preserving Loss Function for Tubular Structure Segmentation.
     [[arxiv 2003]](https://arxiv.org/pdf/2003.07311)
+    * A New Approach for Evaluating and Improving the Performance of Segmentation Algorithms on Hard-to-Detect Blood Vessels
+    [[arxiv 2024]](https://www.researchgate.net/publication/381580170_A_New_Approach_for_Evaluating_and_Improving_the_Performance_of_Segmentation_Algorithms_on_Hard-to-Detect_Blood_Vessels)
   * GNN
     * TaG-Net: Topology-Aware Graph Network for Centerline-Based Vessel Labeling.
     [[IEEE TMI 2023]](https://ieeexplore.ieee.org/document/10032183).<br>
