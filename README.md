@@ -5,7 +5,13 @@
   * Retinal Vessel Segmentation Using Deep Learning: A Review
   [[IEEE Acess 2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9504555)
 * Papers
-  * Unsupervised
+  * Self-supervised
+    * Diffusion adversarial representation learning for self-supervised vessel segmentation.
+    [[arxiv 2022]](https://arxiv.org/pdf/2209.14566).<br>
+    * C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation.
+    [[MIA 2023]](https://doi.org/10.1016/j.media.2023.103022).<br>
+    * SurgNet: Self-Supervised Pretraining With Semantic Consistency for Vessel and Instrument Segmentation in Surgical ImagesSurgNet.
+    [[IEEE TMI 2024]](https://ieeexplore.ieee.org/document/10354412)
   * Semi-supervised
     * DIAS: A dataset and benchmark for intracranial artery segmentation in DSA sequences.
     [[MIA 2024]](https://doi.org/10.1016/j.media.2024.103247)
@@ -37,6 +43,10 @@
     [[COMPUT BIOL MED 2023]](https://doi.org/10.1016/j.compbiomed.2023.107132)
     * An Anatomy- and Topology-Preserving Framework for Coronary Artery Segmentation.
     [[IEEE TMI 2023]](https://ieeexplore.ieee.org/abstract/document/10265156/authors#authors)
+    * MSR U-Net: An Improved U-Net Model for Retinal Blood Vessel Segmentation
+    [[IEEE Access 2023]](https://ieeexplore.ieee.org/document/10373855)
+    * Retinal Vessel Segmentation using Round-wise Features Aggregation on Bracket-shaped Convolutional Neural Networks
+    [[IEEE EMBC 2019]](https://ieeexplore.ieee.org/document/8856552/keywords#keywords)
   * Multi-level semantic supervision
     * SCS-Net: A Scale and Context Sensitive Network for Retinal Vessel.
     [[MIA 2021]](https://www.sciencedirect.com/science/article/abs/pii/S1361841521000712).
@@ -48,3 +58,5 @@
   * GNN
     * TaG-Net: Topology-Aware Graph Network for Centerline-Based Vessel Labeling.
     [[IEEE TMI 2023]](https://ieeexplore.ieee.org/document/10032183).<br>
+    * Dual Encoder-Based Dynamic-Channel Graph Convolutional Network With Edge Enhancement for Retinal Vessel Segmentation.
+    [[IEEE TMI 2022]](https://ieeexplore.ieee.org/document/9714302).<br>
