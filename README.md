@@ -3,7 +3,7 @@
   * SLOctolyzer: Fully automatic analysis toolkit for segmentation and feature extracting in scanning laser ophthalmoscopy images.
   [[arxiv 2024]](https://arxiv.org/abs/2406.16466)
 * Review
-  *Understanding the Tricks of Deep Learning in Medical Image Segmentation: Challenges and Future Directions.
+  * Understanding the Tricks of Deep Learning in Medical Image Segmentation: Challenges and Future Directions.
   [[arxiv 2023]](https://arxiv.org/pdf/2209.10307)
   * Brain Vessel Segmentation Using Deep Learning—A Review.
   [[IEEE Acess 2022]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9919808)
