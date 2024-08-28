@@ -50,7 +50,7 @@
     [[IEEE TMI 2023]](https://ieeexplore.ieee.org/abstract/document/10265156/authors#authors)
     * MSR U-Net: An Improved U-Net Model for Retinal Blood Vessel Segmentation
     [[IEEE Access 2023]](https://ieeexplore.ieee.org/document/10373855)
-    * Retinal Vessel Segmentation using Round-wise Features Aggregation on Bracket-shaped Convolutional Neural Networks
+    * Retinal Vessel Segmentation using Round-wise Features Aggregation on Bracket-shaped Convolutional Neural Networks.
     [[IEEE EMBC 2019]](https://ieeexplore.ieee.org/document/8856552/keywords#keywords)
     * Retinal vessel segmentation using Multiheaded attention UNet.
     [[arxiv 2023]](https://ieeexplore.ieee.org/document/10156875)
